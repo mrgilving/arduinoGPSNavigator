@@ -10,7 +10,7 @@ I'll fix it later if have anouth time.
 # Features
 
 - Displays 100 points of track
-- Shows moving direction as array
+- Shows moving direction as arrow
 - You can set custon target point
 - Shows distance to target point
 - You can clear point 
