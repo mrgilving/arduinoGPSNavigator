@@ -5,7 +5,7 @@ I'll fix it later if have anouth time.
 
 - gps.ino -- program of Navigator
 - libraries/ -- a pack of third party libs, you should add it to your arduino home dir
-- images/ -- a screens for LCD-display and small python script for converting 3bytes-BMP to C-bytes string
+- images/ -- a screens for LCD-display and small python script convertes 3-bytes-BMP made by GIMP to bytes-array string. It is bad-style code, sorry :)
 
 # Features
 
